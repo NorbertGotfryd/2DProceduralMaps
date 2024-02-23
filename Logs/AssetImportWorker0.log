@@ -1,0 +1,196 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1586; Version 2009; 64bit' Language: 'en' Physical Memory: 32176 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/norbe/Desktop/Unity/Projects/2DProceduralMaps
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51289
+Successfully changed project path to: C:/Users/norbe/Desktop/Unity/Projects/2DProceduralMaps
+C:/Users/norbe/Desktop/Unity/Projects/2DProceduralMaps
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/norbe/Desktop/Unity/Projects/2DProceduralMaps/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1638)
+    Vendor:   
+    VRAM:     16088 MB
+    Driver:   27.20.14016.7001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002525 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.431 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001506 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 2.800200 ms (FindLiveObjects: 0.320100 ms CreateObjectMapping: 0.106300 ms MarkObjects: 2.301000 ms  DeleteObjects: 0.071600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Biomes/Desert.asset
+  artifactKey: Guid(37f4d0979ada36045a8e91f9843df744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Biomes/Desert.asset using Guid(37f4d0979ada36045a8e91f9843df744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3701439755ee6772fe76e7963577b400') in 0.040134 seconds
+  Import took 0.043856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Biomes/Jungle.asset
+  artifactKey: Guid(667ab8484af30d5448223855d2cbf761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Biomes/Jungle.asset using Guid(667ab8484af30d5448223855d2cbf761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23715e19b203046b175c6c2c4ba962f6') in 0.014800 seconds
+  Import took 0.018960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Biomes/Ocean.asset
+  artifactKey: Guid(f6886dd0bd832c94c8b73262fd491f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Biomes/Ocean.asset using Guid(f6886dd0bd832c94c8b73262fd491f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2ae051cbac8e21f7ef718752d94ea8') in 0.011674 seconds
+  Import took 0.016106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Biomes
+  artifactKey: Guid(f7a8b7274e5de1f438409cee2b97add9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Biomes using Guid(f7a8b7274e5de1f438409cee2b97add9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eaf5613040a501a7f83f186a36fa5cd') in 0.008566 seconds
+  Import took 0.012419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Biomes/Tundra.asset
+  artifactKey: Guid(52a91cdd4f96c2e4088a55ef5f10e928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Biomes/Tundra.asset using Guid(52a91cdd4f96c2e4088a55ef5f10e928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e348507c72ef0c2bca5e06a310d0a6fc') in 0.008836 seconds
+  Import took 0.012887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Biomes/Grassland.asset
+  artifactKey: Guid(e1c03cca76cb1a345bec51a24633eb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Biomes/Grassland.asset using Guid(e1c03cca76cb1a345bec51a24633eb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0f21d9d5f308167e695f412bb0a0dc') in 0.008240 seconds
+  Import took 0.011443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Biomes/Forest.asset
+  artifactKey: Guid(8a0471c17b2dd4d448e5696438c6e494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Biomes/Forest.asset using Guid(8a0471c17b2dd4d448e5696438c6e494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df690fccbcfc42983394279a3449427f') in 0.008468 seconds
+  Import took 0.012171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Biomes/Mountains.asset
+  artifactKey: Guid(34f03b8dbce4d4c4e81db6de4f53432b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Biomes/Mountains.asset using Guid(34f03b8dbce4d4c4e81db6de4f53432b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d5b2098a20e775ebf9317871ef8ceff') in 0.008476 seconds
+  Import took 0.011840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.245133 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(a65c774f9e2afe54885871278d9e60c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(a65c774f9e2afe54885871278d9e60c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcd4712aa49b39caa877aab92068a1d3') in 0.009764 seconds
+  Import took 0.013782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077515 seconds.
+  path: Assets/Sprites/Spritesheet.png
+  artifactKey: Guid(f950066eb603ea74faf48e86a0349845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheet.png using Guid(f950066eb603ea74faf48e86a0349845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d5b6420e576a3731f92a20abb52eb2') in 0.175289 seconds
+  Import took 0.179337 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.0 MB.
+System memory in use after: 52.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2266.
+Total: 3.612000 ms (FindLiveObjects: 0.312400 ms CreateObjectMapping: 0.061700 ms MarkObjects: 3.216000 ms  DeleteObjects: 0.020800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.413816 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(5b0421279d87ac4478ab68cf51d5a493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(5b0421279d87ac4478ab68cf51d5a493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ef608d339786ad6038497dde08761e') in 0.011499 seconds
+  Import took 0.016175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.483232 seconds.
+  path: Assets/Scripts/NoiseGenerator.cs
+  artifactKey: Guid(0b6fae62be8161547bdb86a85389ebb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NoiseGenerator.cs using Guid(0b6fae62be8161547bdb86a85389ebb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a6096495ffcc7a95b503d369d5adb7') in 0.010371 seconds
+  Import took 0.014807 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.990 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 3.387900 ms (FindLiveObjects: 0.388400 ms CreateObjectMapping: 0.105200 ms MarkObjects: 2.870100 ms  DeleteObjects: 0.021500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
